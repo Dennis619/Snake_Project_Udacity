@@ -32,11 +32,10 @@ In this project, you can build your own C++ application or extend this Snake gam
 
 ## Functionalities added to the Projcet.
 The following modifications where made on the stater code:
-1. The following were added to the project: 
-    a. Main Menu- is responsible for managing user inputs and changing game setting.
-    b. Player - manages the player information by allowing them to enter their name and store their high score
-    c. Food - that is an interface of Normal Food class(growth of snake size + 1), Double Growth Food(growth of snake size + 2), Triple Growth Food(growth of snake size + 3) and Poison(kills the snake)
-    d. Game difficulty - that manages the start speed of the snake.
+1.  Main Menu- is responsible for managing user inputs and changing game setting.
+2.  Player - manages the player information by allowing them to enter their name and store their high score (Player data is store under src/files/playerInfo.txt)
+3. Food - that is an interface of Normal Food class(growth of snake size + 1), Double Growth Food(growth of snake size + 2), Triple Growth Food(growth of snake size + 3) and Poison(kills the snake)
+4. Game difficulty - that manages the start speed of the snake.
 
 ## Addressed Rubic Points
 ### Loops, Functions, I/O

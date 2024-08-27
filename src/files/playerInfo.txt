@@ -1,3 +1,2 @@
-PlayerName: 2
-PlayerHighScore: 8
-
+PlayerName: Dennis
+PlayerHighScore: 0
